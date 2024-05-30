@@ -1,0 +1,5 @@
+Wed May 29 21:02:04 SAST 2024 - Adicionar Cliente: Cliente{nome='Jr', id='12'}
+Wed May 29 21:02:41 SAST 2024 - Realizar Venda: 12 comprou 20x Paracetamol por 340.0
+Wed May 29 21:08:28 SAST 2024 - Atualizar Cliente: 12 para Cliente{nome='Pepito', id='14'}
+Wed May 29 21:10:55 SAST 2024 - Adicionar Produto: Produto{nome='Vicks', preco=40.0, quantidade=5, vendidos=0}
+Wed May 29 21:15:11 SAST 2024 - Realizar Venda: 14 comprou 10x Paracetamol por 1000.0
